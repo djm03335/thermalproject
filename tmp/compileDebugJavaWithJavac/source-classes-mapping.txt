@@ -1,0 +1,2 @@
+com/example/digitclassifier/BuildConfig.java
+ com.example.digitclassifier.BuildConfig
